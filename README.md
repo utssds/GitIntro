@@ -1,2 +1,3 @@
 # GitIntro
-Welcome to the world of git!
+
+Here's my first commit
